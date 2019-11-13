@@ -1,0 +1,5 @@
+com\h2\controller\CustomerController.class
+com\h2\entity\Customer.class
+com\h2\H2Crud\H2CrudApplication.class
+com\h2\repository\CustomerRepositroy.class
+com\h2\service\CustomerService.class
