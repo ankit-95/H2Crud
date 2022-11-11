@@ -1,0 +1,7 @@
+applications:
+- name: H2Crud
+  path: H2Crud-0.0.1-SNAPSHOT.war
+  instances: 1
+  memory: 256MB
+  buildpack: liberty-for-java
+  stack: cflinuxfs3
